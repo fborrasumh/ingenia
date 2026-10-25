@@ -4,6 +4,8 @@ El laboratorio de Ingeniería Genética en tu navegador: de la restrictasa al RN
 
 **Usar la app:** https://fborrasumh.github.io/ingenia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23651306.svg)](https://doi.org/10.5281/zenodo.23651306)
+
 **Idiomas:** español (por defecto), inglés, portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
